@@ -1,4 +1,3 @@
-;un cambio
 .model tiny
 ;----- Insert INCLUDE "filename" directives here
 ;----- Insert EQU and = equates here
